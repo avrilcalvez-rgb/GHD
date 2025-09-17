@@ -1,0 +1,1614 @@
+{
+  "globals": {
+    "min_sqft": 15,
+    "min_height_in": 36,
+    "magic_add_per_sqft": 20
+  },
+  "master": [
+    {
+      "code": "Natural Basic - N500 -Crystal Chain",
+      "base": 40,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Natural Basic - B500 -Crystal Chain",
+      "base": 40,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Woodlook Prime - W300 -Crystal Chain",
+      "base": 47,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Woodlook Eluxe -W800 -Crystal Chain",
+      "base": 47,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Linen - L700 -Crystal Chain",
+      "base": 47,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Trilogy - T620 -Crystal Chain",
+      "base": 48,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Timber Prime - T500 -Crystal Chain",
+      "base": 50,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Losa Wood - W500 -Crystal Chain",
+      "base": 51,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Kingswood - K500 -Crystal Chain",
+      "base": 51,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Crescendo - C600 -Crystal Chain",
+      "base": 53,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Duology - D500 -Crystal Chain",
+      "base": 55,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Mono - M300 -Crystal Chain",
+      "base": 60,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Wider - G400 -Crystal Chain",
+      "base": 62,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Amira - A700 -Crystal Chain",
+      "base": 70,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Pleated Trinity - T800 -Crystal Chain (open bottom tube)",
+      "base": 80,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Pleated 7 - P700 -Crystal Chain (open bottom tube)",
+      "base": 80,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Inova - P100 -Crystal Chain",
+      "base": 88,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Elegancy - E700 -Crystal Chain (open bottom tube)",
+      "base": 90,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Checker - C420 -Crystal Chain (open bottom tube)",
+      "base": 110,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Vanity - V600 -Crystal Chain",
+      "base": 120,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Pleat & Twist - M900 -Crystal Chain",
+      "base": 120,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Curves - B810 -Crystal Chain",
+      "base": 140,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Luxury Premium - L500 -Crystal Chain",
+      "base": 72,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Hannover Premium - H500 -Crystal Chain",
+      "base": 72,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "P800 -Crystal Chain",
+      "base": 72,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Majesty Premium - M500 -Crystal Chain",
+      "base": 72,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Adeline Premium - A200 -Crystal Chain",
+      "base": 78,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Prima S - P500 -Crystal Chain",
+      "base": 83,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Ultima Supreme - U500",
+      "base": 83,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "A4501-3 Pioneer Sunscreen w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "T5301-3 Pioneer Sunscreen w/Valance",
+      "base": 57,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "A450X Pioneer Sunscreen w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "T350X Pioneer Sunscreen w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "F1300 Pioneer Sunscreen w/Valance",
+      "base": 81,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "W5100 Pioneer Sunscreen w/Valance",
+      "base": 81,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "CT3300 - 3% Pioneer Sunscreen w/Valance",
+      "base": 81,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "CA4300 - 3% Pioneer Sunscreen w/Valance",
+      "base": 87,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "BT3100 - 1% Pioneer Sunscreen w/Valance",
+      "base": 87,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "BA4100 - 1% Pioneer Sunscreen w/Valance",
+      "base": 92,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DA4000 - 0% Pioneer Sunscreen w/Valance",
+      "base": 92,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R8212 Regent Block Out w/Valance",
+      "base": 68,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R8213 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R5350 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R3040 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R4080 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R6040 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R6020 Regent Block Out w/Valance",
+      "base": 700,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R7000 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R8216 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R8217 Regent Block Out w/Valance",
+      "base": 70,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "R9090 Regent Block Out w/Valance",
+      "base": 83,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "G4000 Regent Block Out w/Valance",
+      "base": 85,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "KT5300 Regent Block Out w/Valance",
+      "base": 103,
+      "show": {
+        "combi": false,
+        "roller": true,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "SP100 Pure - Synergy",
+      "base": 47,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "SW200 Woodlook - Synergy",
+      "base": 50,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "ST300 Trilogy - Synergy",
+      "base": 57,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DL700 Strato - Synergy",
+      "base": 95,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "BS800 Grain BlockOut",
+      "base": 81,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "BS900 Plain BlockOut",
+      "base": 81,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DW100 Darkwood BlockOut",
+      "base": 89,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DM200 Darkmost BlackOut",
+      "base": 89,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DT300 Horizon Block Out",
+      "base": 105,
+      "show": {
+        "combi": true,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Vertical Blinds - PVC Plain/Sprinkle",
+      "base": 69,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": true,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Vertical Blinds - PVC Woodgrain",
+      "base": 80,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": true,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Vertical Blinds - Fabric 100% Polyester V1,V4V5,V6,V7,V8",
+      "base": 80,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": true,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "Vertical Blinds - Fabric 100% Polyester V28, V3, V9",
+      "base": 95,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": true,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DS500 Combi Vertical Breeze - Synergy",
+      "base": 175,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": true,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DS100 Combi Vertical Aura - Synergy",
+      "base": 240,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": true,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DS300 Combi Vertical Grandia - Synergy",
+      "base": 250,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": true,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DS600 Shangrila",
+      "base": 175,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": true,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "DS800 Shangrila",
+      "base": 145,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": true,
+        "venetian": false,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "A2600 Plain",
+      "base": 75,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": true,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "A6000 Plain",
+      "base": 75,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": true,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "A2900 Metallic",
+      "base": 75,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": true,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "A2200 Woodgrain",
+      "base": 90,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": true,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "P2000 perforated",
+      "base": 90,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": true,
+        "realwood": false,
+        "curtains": false
+      }
+    },
+    {
+      "code": "BW800 - wood blinds",
+      "base": 165,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "BW970 - wood blinds",
+      "base": 165,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "PW600 - wood blinds",
+      "base": 160,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "PW930 - wood blinds",
+      "base": 160,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "FW200 - wood blinds",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "FW300 - wood blinds",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "PS500 - wood blinds",
+      "base": 125,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": true,
+        "curtains": false
+      }
+    },
+    {
+      "code": "AP100 Aphrodite",
+      "base": 100,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "AT200 Athena",
+      "base": 100,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "VT300 Victoria",
+      "base": 100,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "OX1300 Oxford",
+      "base": 115,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "MR1200 Morris",
+      "base": 125,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "CS900 Cassanova",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "YR300 Yara",
+      "base": 140,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "TH2100 Thalia",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "CL500 Calypso",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "VL800 Velour",
+      "base": 145,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "LN600 Luna",
+      "base": 145,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "ES2200 Easter",
+      "base": 155,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "DN2600 Diana",
+      "base": 155,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "HV1100 Havanna",
+      "base": 155,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "VN1800 Venus",
+      "base": 165,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "NP2400 Neptune",
+      "base": 190,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Vesper (BlockOut)",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Freya (BlockOut)",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Hera (BlockOut)",
+      "base": 135,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Arya (BlockOut)",
+      "base": 155,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Tiffany (BlockOut)",
+      "base": 185,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Gotham (BlockOut)",
+      "base": 185,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Rafia (BlockOut)",
+      "base": 190,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    },
+    {
+      "code": "Persia (BlockOut)",
+      "base": 190,
+      "show": {
+        "combi": false,
+        "roller": false,
+        "pvc": false,
+        "public": false,
+        "synergy": false,
+        "shangrila": false,
+        "venetian": false,
+        "realwood": false,
+        "curtains": true
+      }
+    }
+  ]
+}
